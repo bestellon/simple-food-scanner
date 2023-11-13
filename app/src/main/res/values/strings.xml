@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FoodScanner</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="today">aujourd\'hui</string>
+    <string name="error">Erreur</string>
+    <string name="close">Fermer</string>
+    <string name="scanFoodError">Impossible de scanner ou de télécharger l\'aliment.</string>
+    <plurals name="days_ago">
+        <item quantity="one">il y a un jour</item>
+        <item quantity="other">il y a %d jours</item>
+    </plurals>
+    <plurals name="months_ago">
+        <item quantity="one">il y a un mois</item>
+        <item quantity="other">il y a %d mois</item>
+    </plurals>
+    <plurals name="years_ago">
+        <item quantity="one">il y a un an</item>
+        <item quantity="other">il y a %d ans</item>
+    </plurals>
+</resources>
